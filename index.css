@@ -8,6 +8,7 @@ body {
   height: 100vh;
   width: 100vw;
   display: grid;
+  grid-template: 100px/auto;
   /* your properties here */
 }
 
